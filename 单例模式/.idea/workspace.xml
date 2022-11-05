@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="648fee0b-f2eb-409f-b64a-85a27b581908" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    <list default="true" id="30243a28-ab5a-4df0-acc2-0c4c5f9eb75a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/CrazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LazySingletonAgainstThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../工厂模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../工厂模式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../工厂模式/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../工厂模式/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2Gcz0vkQdxlGOggbhsR7pQxGSVo" />
+  <component name="ProjectId" id="2H6uj4tW73QGFF18Z5kL9rfwUf2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -85,12 +88,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="工厂模式" />
+      <module name="单例模式" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -107,13 +109,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="648fee0b-f2eb-409f-b64a-85a27b581908" name="Changes" comment="" />
-      <created>1666702440995</created>
+      <changelist id="30243a28-ab5a-4df0-acc2-0c4c5f9eb75a" name="Changes" comment="" />
+      <created>1667617986308</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666702440995</updated>
-      <workItem from="1666702442370" duration="1529000" />
-      <workItem from="1667615656002" duration="655000" />
+      <updated>1667617986308</updated>
+      <workItem from="1667617987785" duration="742000" />
     </task>
     <servers />
   </component>
@@ -130,6 +131,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
