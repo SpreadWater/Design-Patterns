@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30243a28-ab5a-4df0-acc2-0c4c5f9eb75a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="30bf464e-74bd-404e-952c-553f057adca0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LEDLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SimpleRemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../单例模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单例模式/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -19,7 +25,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2H6uj4tW73QGFF18Z5kL9rfwUf2" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2HCasarl5bzW4LYNxmOa2HGRmYm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -84,12 +98,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="单例模式" />
+      <module name="命令模式" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -106,15 +119,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="30243a28-ab5a-4df0-acc2-0c4c5f9eb75a" name="Changes" comment="" />
-      <created>1667617986308</created>
+      <changelist id="30bf464e-74bd-404e-952c-553f057adca0" name="Changes" comment="" />
+      <created>1667791728454</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667617986308</updated>
-      <workItem from="1667617987785" duration="975000" />
-      <workItem from="1667619005804" duration="5000" />
-      <workItem from="1667619081599" duration="5000" />
-      <workItem from="1667791691477" duration="29000" />
+      <updated>1667791728454</updated>
+      <workItem from="1667791729777" duration="1383000" />
     </task>
     <servers />
   </component>
@@ -131,6 +141,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
