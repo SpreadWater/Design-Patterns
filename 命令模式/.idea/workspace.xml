@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30bf464e-74bd-404e-952c-553f057adca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LEDLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SimpleRemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../单例模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../单例模式/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/NoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/命令模式/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/命令模式/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +99,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -124,7 +126,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667791728454</updated>
-      <workItem from="1667791729777" duration="1383000" />
+      <workItem from="1667791729777" duration="1468000" />
+      <workItem from="1667801918104" duration="4374000" />
     </task>
     <servers />
   </component>
@@ -141,5 +144,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
