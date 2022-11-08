@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30bf464e-74bd-404e-952c-553f057adca0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7034cd98-229a-4e15-9550-0c134ad41dd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/WildTurkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../命令模式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../命令模式/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,15 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="2HCasarl5bzW4LYNxmOa2HGRmYm" />
+  <component name="ProjectId" id="2HFGyJjLuVQCTtkmLeUr5D35pK6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -93,12 +90,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="命令模式" />
+      <module name="适配器模式" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -115,14 +111,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="30bf464e-74bd-404e-952c-553f057adca0" name="Changes" comment="" />
-      <created>1667791728454</created>
+      <changelist id="7034cd98-229a-4e15-9550-0c134ad41dd9" name="Changes" comment="" />
+      <created>1667873672305</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667791728454</updated>
-      <workItem from="1667791729777" duration="1468000" />
-      <workItem from="1667801918104" duration="4500000" />
-      <workItem from="1667873644611" duration="21000" />
+      <updated>1667873672305</updated>
+      <workItem from="1667873673727" duration="1348000" />
     </task>
     <servers />
   </component>
@@ -139,6 +133,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
